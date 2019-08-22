@@ -7,6 +7,8 @@ Created on Thu Sep 04 12:07:43 2014
 from __future__ import division, print_function
 import numpy as np
 import scipy.constants as const
+import matplotlib.pyplot as plt
+import collections
 
 def rule07(wl, T):
     '''
@@ -154,8 +156,7 @@ def rule07_Tplot(wlarray, Tarray):
     plt.show()
 
 if __name__ == '__main__':
-    import matplotlib.pyplot as plt
-    import collections
+
  
 #    Tarray_A = (50, 60, 70, 77, 80, 90, 100, 110, 120)
 #    wlarray_A = np.linspace(5, 20, 100)
