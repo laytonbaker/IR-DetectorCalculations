@@ -1,5 +1,5 @@
 # IR-DetectorCalculations
-These IPython notebooks and python scripts are incomplete but cover some calculation used to simulate and analysis infrared detector performance.
+These IPython notebooks and python scripts are incomplete but cover some calculations used to simulate and analyze infrared detector performance.
 Intial commit was Nov 2016.  I will try to put up more code as I have time.
 
 
